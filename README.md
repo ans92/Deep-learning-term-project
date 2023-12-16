@@ -1,4 +1,6 @@
-# Deep Learning Term Project
+# Art VQA
+
+### Deep Learning Term Project
 
 This is the term project that I did for my Deep Learning course. 
 
