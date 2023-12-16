@@ -1,4 +1,4 @@
-# Art VQA
+# Art Visual Question Answering
 
 ### Deep Learning Term Project
 
